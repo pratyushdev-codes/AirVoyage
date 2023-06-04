@@ -1,0 +1,122 @@
+
+.dc409a48815635d917aae6d912db62-icon {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  width: 1420px;
+  height: 716px;
+  object-fit: cover;
+}
+.screenshot-2023-04-07-204145-r-icon {
+  position: absolute;
+  top: 172px;
+  left: 793px;
+  width: 613px;
+  height: 544px;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: 565px;
+  left: 38px;
+  border-radius: 35px;
+  background-color: var(--color-white);
+  width: 570px;
+  height: 91px;
+  overflow: hidden;
+}
+.all-you-flight {
+  margin: 0;
+}
+.all-you-flight-container {
+  position: absolute;
+  top: 565px;
+  left: 21px;
+  font-weight: 800;
+  display: inline-block;
+  width: 605px;
+  height: 91px;
+}
+.e0fbb1db84cf0478615fb42b56ce89-icon {
+  position: absolute;
+  top: 831px;
+  left: 0;
+  width: 917px;
+  height: 519px;
+  object-fit: cover;
+}
+.dc409a48815635d917aae6d912db62-parent {
+  position: absolute;
+  top: 547px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 3551px;
+  overflow: hidden;
+}
+.f4fd5e3a078cdf748529d2d360-1-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 1440px;
+  height: 588px;
+  object-fit: cover;
+}
+.blue-pink-linear-gradient-circ-icon {
+  position: absolute;
+  top: 274px;
+  left: 162px;
+  width: 323px;
+  height: 323px;
+  object-fit: cover;
+}
+.png-transparent-circle-gradien-icon {
+  position: absolute;
+  top: 223px;
+  left: 273px;
+  width: 494px;
+  height: 404px;
+  object-fit: cover;
+}
+.voyage {
+  color: #eef217;
+}
+.air-voyage {
+  position: absolute;
+  top: 372px;
+  left: -419px;
+  font-weight: 800;
+  display: inline-block;
+  width: 1475px;
+  height: 194px;
+}
+.your-travel-companinon {
+  position: absolute;
+  top: 489px;
+  left: 233px;
+  font-size: var(--font-size-16xl);
+  font-weight: 800;
+  color: snow;
+}
+.f4fd5e3a078cdf748529d2d360-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 627px;
+  overflow: hidden;
+  font-size: 100px;
+  color: #bf40bf;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3339px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: orchid;
+  font-family: var(--font-inter);
+}

@@ -1,10 +1,4 @@
+![image](https://github.com/pratyushdev-codes/AirVoyage/assets/109750976/1ac9318a-b395-451d-b966-7262d09fe8ae)
+![image](https://github.com/pratyushdev-codes/AirVoyage/assets/109750976/dfc89683-0e6e-41a7-bb77-be4656ba9c62)
 
-  # AirVoyage
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
